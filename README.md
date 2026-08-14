@@ -151,7 +151,7 @@ Heart-Disease-Prediction/
 - [ ] 📊 Add SHAP values for explainability
 - [ ] 📋 Multi-patient batch prediction (CSV upload)
 - [ ] 📱 Mobile-responsive UI improvements
-- [ ] 🏥 Doctor-friendly PDF report export
+- [ ] 🏥 Doctor-friendly PDF report export.
 
 ---
 
